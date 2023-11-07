@@ -1,0 +1,16 @@
+beautifulsoup4==4.9.3
+datasets==2.14.6
+fastai==2.7.13
+keras==2.13.1
+langdetect==1.0.9
+matplotlib==3.5.1
+nltk==3.8.1
+numpy==1.24.3
+pandas==2.1.2
+Pillow==9.4.0
+scikit_learn==1.0.2
+seaborn==0.11.2
+tensorflow==2.14.0
+tqdm==4.65.0
+transformers==4.35.0
+wordcloud==1.9.2
